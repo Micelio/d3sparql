@@ -6,8 +6,8 @@
 //   Initial version: 2013-01-28
 //
 
-var d3sparql = {
-  version: "d3sparql.js version 2014-12-10"
+var d3wikidata = {
+  version: "d3wikidata.js version 2014-12-16"
 }
 
 /*
